@@ -1,3 +1,7 @@
+//Gabriel Barbosa de Souza - 10434547
+//Lucas Osório Baldoino - 10434481
+//Manuela Macchion Martedi - 10741587
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
